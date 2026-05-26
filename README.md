@@ -45,7 +45,7 @@ Você precisa ter o [Python 3](https://www.python.org/downloads/) instalado.
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/python-exercicios.git
+git clone https://github.com/seu-usuario/pythonExercicios.git
 
 # Entre na pasta
 cd python-exercicios
