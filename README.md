@@ -3,6 +3,7 @@
 Repositório criado para documentar minha evolução em Python enquanto me preparo para um estágio de desenvolvimento.
 Os exercícios cobrem fundamentos da linguagem e vão aumentando de dificuldade progressivamente.
 
+Cada nível conta com um menu interativo: o usuário escolhe qual exercício deseja testar e pode repetir quantas vezes quiser, retornando ao menu após cada execução. A sessão só encerra quando o usuário decide sair.
 ---
 
 ## 📁 Estrutura
@@ -48,10 +49,10 @@ Você precisa ter o [Python 3](https://www.python.org/downloads/) instalado.
 git clone https://github.com/seu-usuario/pythonExercicios.git
 
 # Entre na pasta
-cd python-exercicios
+cd pythonExercicios
 
 # Execute um exercício
-python nivel1/exercicios.py
+python exercicio1/main.py
 ```
 
 ---
